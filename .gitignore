@@ -1,0 +1,19 @@
+# Jupyter
+.ipynb_checkpoints/
+.virtual_documents/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+env/
+venv/
+ml_env/
+
+# Data files (optional)
+*.csv
+
+# Model files (optional)
+*.pkl
